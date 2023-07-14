@@ -13,6 +13,7 @@
 #include <memory>
 #include <string>
 #include <chrono>
+#include <random>
 
 #include <eigen3/Eigen/Core>
 #include <eigen3/Eigen/Dense>
